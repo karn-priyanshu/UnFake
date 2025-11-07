@@ -6,18 +6,7 @@
 </div>
 </div>
 
-<div align="center">
-  
-![GitHub stars](https://img.shields.io/github/stars/negativenagesh/UnFake?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/negativenagesh/UnFake?style=social)
-![GitHub forks](https://img.shields.io/github/forks/negativenagesh/UnFake?style=social)
-![GitHub license](https://img.shields.io/github/license/negativenagesh/UnFake)
-</div>
 
-<div align="center">
-	
-[Hosted live at Hugging Face Spaces, Check out!!](https://huggingface.co/spaces/Subrahmanyagaonkar/UnFake)
-</div>
 
 ## Overview
 
