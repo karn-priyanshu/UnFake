@@ -188,8 +188,6 @@ Dataset and Categories
 * Pose & Composition:
   -Close-up and headshot/portrait images.
 
-Download real images from my [kaggle](https://www.kaggle.com/datasets/subrahmanya090/face-images-high-quality-scraped-from-unsplash)
-Real and fake from [here as well](https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images)
 
 2. Data Transformations:
 
@@ -356,5 +354,4 @@ Input (600x600x3)
     <img src="Model/image.png" alt="LAE" style="width: 1000px; height: 600px;">
 </div>
 
-<div style=" border-radius: 10px; animation: fadeOutIn 2s infinite;"> <h2 style="color: #00d4ff;">License</h2> <p style="color: #b0b0b3;"> UnFake is licensed under the <a href="https://github.com/negativenagesh/UnFake/blob/main/LICENSE">Apache License Version 2.0</a>. Feel free to use, modify, and share! ❤️ </p> 
-</div>
+
